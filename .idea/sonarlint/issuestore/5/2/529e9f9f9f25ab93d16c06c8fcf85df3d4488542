@@ -1,0 +1,9 @@
+
+msquid:S3027"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(¯°˜Šüÿÿÿÿ8ž½©Œ¼-
+Csquid:S1989"%Add a "try/catch" block for "doPost".(‘›þá8ˆŒ–Œ¼-
+Fsquid:S1989""(Add a "try/catch" block for "getWriter".(…ŒÇŽ8Ùþ²Œ¼-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Âü»Œ¼-
+psquid:S3776."RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®´š¥8ˆŒ–Œ¼-
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ˆŒ–Œ¼-
+Csquid:S1989"%Add a "try/catch" block for "doPost".(‘›þá8ˆŒ–Œ¼-
+xsquid:UselessImportCheck"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ8•—¼Œ¼-
