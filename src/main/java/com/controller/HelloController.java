@@ -13,9 +13,9 @@ public class HelloController {
     }
 
 
-    @RequestMapping("/ppp")
+    @RequestMapping("/world")
     public String ppp(){
-        System.out.println("访问到了我ppppppppppppppp！");
+        System.out.println("访问到了我world！");
         return "";
     }
 }
